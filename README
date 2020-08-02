@@ -3,6 +3,10 @@
 This is a tool which provides a way to search a spectrum and determine which disulfide bridging explains the fragmentation pattern in
 intra-peptide disulfide bonds.It is compatible with single and double disulfide bonds (2-4 cysteine residues).   
 
+= Publication
+Ogawa N, Taylor RM, Woodbury DJ, Prince JT. Resolving double disulfide bond patterns in SNAP25B using liquid chromatography-ion trap mass spectrometry. J Mass Spectrom. 2013;48(6):660-668. 
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/jms.3211
+
 ==Instruction on use
 
 1. Convert RAW file to mzML
